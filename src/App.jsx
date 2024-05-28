@@ -1,10 +1,6 @@
 
 function App() {
-  return (
-    <>
-     <h1>hi</h1>
-    </>
-  )
+  return <>{/* <Home></Home> */}</>;
 }
 
-export default App
+export default App;
